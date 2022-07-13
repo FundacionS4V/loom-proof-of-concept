@@ -1,0 +1,23 @@
+{
+  "name": "loom-proof-of-concept",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^14.18.0",
+    "npm": "^6.14.0",
+    "yarn": "^1.22.0"
+  },
+  "dependencies": {
+    "loom-js": "1.80.0",
+    "loom-truffle-provider": "^0.16.0",
+    "openzeppelin-solidity": "4.1.0",
+    "truffle": "^5.5.0",
+    "truffle-hdwallet-provider": "^1.0.2",
+    "truffle-privatekey-provider": "^1.3.0",
+    "web3": "^1.7.4"
+  },
+  "description": "fundacionS4V dapp proof of concept on loom network",
+  "main": "index.js",
+  "author": "Ernesto Medina <ernesto.m.medina.m@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
